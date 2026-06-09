@@ -2,7 +2,8 @@
 
 A digital asset management app built with Next.js, Prisma, and PostgreSQL. Supports images, videos, documents, and 3D models.
 
-[Demo](/demo/one3d-demo.mp4)
+## Demo
+https://github.com/user-attachments/assets/0d582b8f-8f66-4e54-a42b-509dde3bcc04
 
 ## Prerequisites
 
